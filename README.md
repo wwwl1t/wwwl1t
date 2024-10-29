@@ -24,4 +24,4 @@
 </p>
 
 ---
-⭐️ From [natee](https://github.com/wwwl1t)
+⭐️ From [WWWL1T](https://github.com/wwwl1t)
