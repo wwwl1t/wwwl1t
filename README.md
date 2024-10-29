@@ -9,11 +9,6 @@
 ```
 
 
-### 💬 Contact Me 
-
-![Gmail Badge](https://img.shields.io/badge/-kerncink@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)
-![Wechat Badge](https://img.shields.io/badge/-zkShare-7BB32E?style=flat-square&logo=wechat&logoColor=white)
-![QQ Badge](https://img.shields.io/badge/-1835868668-3563d5?style=flat-square&logo=Tencent-QQ)
 
 ### 🚦 Stats
 
@@ -29,4 +24,4 @@
 </p>
 
 ---
-⭐️ From [natee](https://github.com/natee)
+⭐️ From [natee](https://github.com/wwwl1t)
